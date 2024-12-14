@@ -6,8 +6,9 @@ Pontificia Universidad Católica de Chile
 
 ## Resources
 - In the `imgs` folder you will find all figures.
-  - We also include the original dataset as zip file.
-  - The jupyter notebook `IPRE.ipynb` process the data and plots the results. You can easily change parameters inside the notebook to create new experiments.
-  - Additionally, there is `IPRE.pdf`, a presentation summarizing the research methodology and showcasing results.
+- We also include the original dataset as zip file.
+- The jupyter notebook `IPRE.ipynb` process the data and plots the results. You can easily change parameters inside the notebook to create new experiments.
+- Additionally, there is `IPRE.pdf`, a presentation summarizing the research methodology and showcasing results.
+
   
 
